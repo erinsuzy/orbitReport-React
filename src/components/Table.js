@@ -1,6 +1,6 @@
 const Table = ({ sat }) => {
   return (
-      <table>
+    <table>
        <thead>
         <tr>
           <th>Name</th>
@@ -22,7 +22,7 @@ const Table = ({ sat }) => {
           })}
         
         </tbody>
-      </table>
+    </table>
   );
 };
 
